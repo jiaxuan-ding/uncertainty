@@ -8,7 +8,7 @@ lab.csv: the choice, attribute value, eye-movement and demogarphic of the lab ex
 Estimation:
 MCPT.py: likelihood-based estimation of the MCPT;
 DFT.py: likelihood-based estimation of the DFT without eye-tracking;
-DFT eye.py: likelihood-based estimation of the DFT with eye=tracking;
+DFT eye.py: likelihood-based estimation of the DFT with eye-tracking;
 latent DFT.py: likelihood-based estimation of the latent DFT with eye-tracking;
 
 Results:
