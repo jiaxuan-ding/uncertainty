@@ -16,7 +16,7 @@ from pyarma import *
 from scipy.stats import norm
 
 ########### load data  #################
-path='C:/hp/journel peper/risk/doc/journal version/TRD-Comments1/CODE/estimation/'
+path='enter your path here/'
 data=pd.read_csv(path+'lab data.csv') 
 datao=pd.read_csv(path+'online data.csv')
 
