@@ -1,8 +1,8 @@
-# uncertainty
+# decision under uncertainty
 This folder contains code to estimate multi-attribute cumulative prospect theory (MCTP), decision field theory (DFT), and latent DFT adopted in the paper "Preferences for Electric Vehicles under Uncertain Charging Prices: An Eye-tracking Study".
 
 Data:
-code book.csv: codebook for online and lab dataset
+code book.docx: codebook for online and lab dataset
 online data.csv: the choice, attribute value and demographics of the online street-intercept survey;
 lab data.csv: the choice, attribute value, eye-movement and demographics of the lab experiment.
 
